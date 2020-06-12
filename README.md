@@ -1,4 +1,4 @@
-# animal_sounds
+# Animal Sounds
 
 Discover animal sounds from around the world Animal Sounds is an educational game which help you to Listen to sounds from a variety of animals.
 
